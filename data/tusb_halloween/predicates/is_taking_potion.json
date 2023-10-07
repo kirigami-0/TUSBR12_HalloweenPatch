@@ -1,0 +1,15 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "effects": {
+            "minecraft:hero_of_the_village": {
+                "amplifier": 127,
+                "duration": {
+                    "min": 1,
+                    "max": 3600
+                }
+            }
+        }
+    }
+}
